@@ -11,4 +11,5 @@ Supports many commons actions like:
 - Show/hide player
 
 ###Install
+Requires python-keybinder
 Place in listen/plugins/generic
